@@ -22,8 +22,9 @@ println(-2*(g-k)+c);
 
 //println(c=c++);  -> java answer = 4
 println(c);
+c +=1;
 
-//println(c=++c*a++); ->java answer = 15
+//println(c=++c*a++); ->java answer = 18
 c+=1;
 println(c*a);                     
 a+=1;
