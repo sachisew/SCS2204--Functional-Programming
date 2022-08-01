@@ -1,0 +1,36 @@
+2022.08.01 22:37:14 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\.metals\lsp.trace.json or C:\Users\CS COMPUTERS\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 22:37:16 INFO  logging to file C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\.metals\metals.log
+2022.08.01 22:37:16 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming' for client Visual Studio Code 1.69.2.
+2022.08.01 22:37:19 INFO  time: initialize in 2.89s
+2022.08.01 22:37:20 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 22:37:21 WARN  Build server is not auto-connectable.
+2022.08.01 22:37:21 WARN  no build tool detected in workspace 'C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.01 22:37:22 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:26 INFO  no build target found for C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Aug 01, 2022 10:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 01, 2022 10:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Aug 01, 2022 10:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Aug 01, 2022 10:37:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2022.08.01 22:37:28 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:28 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:30 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:32 INFO  time: code lens generation in 3.62s
+2022.08.01 22:37:32 INFO  time: code lens generation in 4.88s
+2022.08.01 22:37:32 INFO  time: code lens generation in 8.69s
+2022.08.01 22:37:32 INFO  time: code lens generation in 2.18s
+2022.08.01 22:37:32 INFO  time: code lens generation in 1.14s
+2022.08.01 22:37:32 INFO  time: code lens generation in 4.93s
+2022.08.01 22:37:33 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:34 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:37 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:38 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:37:39 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:38:03 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:38:07 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:38:12 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:38:26 WARN  no build target for: C:\Users\CS COMPUTERS\Documents\GitHub\SCS2204--Functional-Programming\Practical 4\Q3.scala
+2022.08.01 22:38:30 INFO  shutting down Metals
